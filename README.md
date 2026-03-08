@@ -231,17 +231,6 @@ npm install
 npm run dev
 ```
 
----
-
-# 📸 Project Preview
-
- demo video here.
-
-Example
-
-```
-/screenshots/home.png
-```
 
 ---
 
